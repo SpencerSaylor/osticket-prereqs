@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/eAUNKvn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First we need to enable IIS (Internet Information Services) with CGI (Common Gateway Interface). This will allow us to host our own server for osTicket. The steps taken to do this as follows:
+1. First we need to enable IIS (Internet Information Services) with CGI (Common Gateway Interface). This will allow us to host our own server for osTicket. The steps taken to do this as follows:
 <ol>
 	<li>Press the Windows Key + R and type 'Control" to bring up the Control panel.</li>
 	<li>From there, select uninstall program --> Turn windows features on or off</li>
@@ -44,7 +44,7 @@ First we need to enable IIS (Internet Information Services) with CGI (Common Gat
 <br />
 
 <p>
-From our install folder, we'll need to install:
+2. From our install folder, we'll need to install:
 <ol>
 	<li>PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</li>
 	<li>Rewrite Module (rewrite_amd64_en-US.msi)</li>
