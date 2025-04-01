@@ -44,8 +44,13 @@ First we need to enable IIS (Internet Information Services) with CGI (Common Gat
 <br />
 
 <p>
-	From our install folder, we'll need to install:
-		- PHP Manager for IIS 
+From our install folder, we'll need to install:
+<ol>
+	<li>PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</li>
+	<li>Rewrite Module (rewrite_amd64_en-US.msi)</li>
+	<li>VC_redist.x86.exe.</li>
+</ol>
+		
 </p>
 
 <p>
