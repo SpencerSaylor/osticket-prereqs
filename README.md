@@ -44,7 +44,8 @@ First we need to enable IIS (Internet Information Services) with CGI (Common Gat
 <br />
 
 <p>
-	- From our install folder, we'll need to install 
+	From our install folder, we'll need to install:
+		1. PHP Manager for IIS 
 </p>
 
 <p>
