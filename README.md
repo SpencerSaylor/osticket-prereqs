@@ -35,12 +35,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 First we need to enable IIS (Internet Information Services) with CGI (Common Gateway Interface). This will allow us to host our own server for osTicket. The steps taken to do this as follows:
-
-	1. Press the Windows Key + R and type 'Control" to bring up the Control panel. 
-
-	2. From there, select uninstall program --> Turn windows features on or off
-
-	3. Scroll and select and IIS --> World Wide Web Services --> Application Development features and select CGI.https://imgur.com/a/It6H02B
+<ol>
+	<li>Press the Windows Key + R and type 'Control" to bring up the Control panel.</li>
+</ol>
 </p>
 <br />
 
