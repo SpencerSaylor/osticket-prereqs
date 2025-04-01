@@ -44,6 +44,10 @@ First we need to enable IIS (Internet Information Services) with CGI (Common Gat
 <br />
 
 <p>
+	- From our install folder, we'll need to install 
+</p>
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
