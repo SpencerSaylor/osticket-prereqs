@@ -113,14 +113,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-	<p><img src="https://i.imgur.com/U8ZNMuF.png" height="80%" width="80%"/></p>
+	<p><img src="https://i.imgur.com/U8ZNMuF.png" height="80%" width="80%" alt="Missing Extensions"/></p>
 	Note that some extensions are not enabled. To fix this, you'll need to do the following: 
 	<ul>
 		<li>Go back to IIS, sites -> Default -> osTicket</li>
  		<li>Double-click PHP Manager</li>
   		<li>Click “Enable or disable an extension”
 			<ul>
-				<li>Enable: php_imap.dll</li>
+				<li>Enable: php_imap.dll</li><p></p>
 				<li>Enable: php_intl.dll</li>
 				<li>Enable: php_opcache.dll</li>
 			</ul>
