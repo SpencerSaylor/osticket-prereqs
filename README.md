@@ -62,9 +62,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 4. We will then install MySQL 5.5.62 (mysql-5.5.62-win32.msi) and then do the following setup:
 <ol>
 	<li>Typical Setup -></li> <p><img src="https://i.imgur.com/hNwJ3n2.png" height="50%" width="50%" alt="Typical Setup"/></p>
