@@ -69,9 +69,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <ol>
 	<li>Typical Setup -></li> <p><img src="https://i.imgur.com/hNwJ3n2.png" height="50%" width="50%" alt="Typical Setup"/></p>
 	<li>Launch Configuration Wizard (after install) -></li>
- 	<li>Standard Configuration -></li>
+ 	<li>Standard Configuration -></li><p><img src="https://i.imgur.com/RJ5JbXS.png" height="50%" width="50%" alt="Standard Config"/></p>
 	<li>Username: root</li>
-	<li>Password: root</li> 
+	<li>Password: root</li><P><img src="https://i.imgur.com/eGgLf85.png" height="50%" width="50%" alt="Standard Config"/></P> 
 	It is a terrible idea to put the username and pass as root, but as a lab it'll be ok.
 </ol>
 </p>
