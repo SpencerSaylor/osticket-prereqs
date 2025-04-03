@@ -71,6 +71,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	<img src="https://i.imgur.com/hNwJ3n2.png" height="50%" width="50%" alt="Typical Setup"/>
 </ol>
 	<li>Launch Configuration Wizard (after install) -></li>
+ 
 	<li>Standard Configuration -></li>
 	<li>Username: root</li>
 	<li>Password: root</li> 
