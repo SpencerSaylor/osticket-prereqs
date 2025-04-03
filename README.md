@@ -120,7 +120,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  		<li>Double-click PHP Manager</li>
   		<li>Click “Enable or disable an extension”
 			<ul>
-				<li>Enable: php_imap.dll</li><p></p>
+				<li>Enable: php_imap.dll</li>
 				<li>Enable: php_intl.dll</li>
 				<li>Enable: php_opcache.dll</li>
 			</ul>
