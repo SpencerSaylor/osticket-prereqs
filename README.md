@@ -65,7 +65,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-
+3. We will then install MySQL 5.5.62 (mysql-5.5.62-win32.msi) and then do the following setup:
+<ol>
+	<li>Typical Setup -></li>
+	<li>Launch Configuration Wizard (after install) -></li>
+	<li>Standard Configuration -></li>
+	<li>Username: root</li>
+	<li>Password: root</li> 
+	It is a terrible idea to put the username and pass as root, but as a lab it'll be ok.
+</ol>
 </p>
 <br />
