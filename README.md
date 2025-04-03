@@ -67,7 +67,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 3. We will then install MySQL 5.5.62 (mysql-5.5.62-win32.msi) and then do the following setup:
 <ol>
-	<li>Typical Setup -></li>
+	<li>Typical Setup -></li> 
+	https://i.imgur.com/hNwJ3n2.png
+</ol>
 	<li>Launch Configuration Wizard (after install) -></li>
 	<li>Standard Configuration -></li>
 	<li>Username: root</li>
