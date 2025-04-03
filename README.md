@@ -67,12 +67,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 3. We will then install MySQL 5.5.62 (mysql-5.5.62-win32.msi) and then do the following setup:
 <ol>
-	<li>Typical Setup -></li> 
-	<img src="https://i.imgur.com/hNwJ3n2.png" height="50%" width="50%" alt="Typical Setup"/>
-</ol>
+	<li>Typical Setup ->
+	<img src="https://i.imgur.com/hNwJ3n2.png" height="50%" width="50%" alt="Typical Setup"/></li> 
 	<li>Launch Configuration Wizard (after install) -></li>
- 
-	<li>Standard Configuration -></li>
+ 	<li>Standard Configuration -></li>
 	<li>Username: root</li>
 	<li>Password: root</li> 
 	It is a terrible idea to put the username and pass as root, but as a lab it'll be ok.
