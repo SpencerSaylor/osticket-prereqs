@@ -109,6 +109,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  <ul>
 	 <li>On the right, click “Browse *:80”</li>
  </ul>
+</p>
+<br />
 
+<p>
+	Note that some extensions are not enabled. To fix this, you'll need to do the following: 
+	<ul>
+		<li>Go back to IIS, sites -> Default -> osTicket</li>
+ 		<li>Double-click PHP Manager</li>
+  		<li>Click “Enable or disable an extension”
+			<ul>
+				<li>Enable: php_imap.dll</li>
+				<li>Enable: php_intl.dll</li>
+				<li>Enable: php_opcache.dll</li>
+			</ul>
+		</li>
+   		<li>Refresh the osTicket site in your browser, observe the changes</li>
+	</ul>	
 </p>
 <br />
