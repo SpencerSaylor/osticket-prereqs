@@ -168,3 +168,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	</ul>
 </p>
 <br />
+
+<p>
+	<p><img src="https://i.imgur.com/te1YX7l.png" weight="80%" width="80%" alt="Congrats!"/></p>
+	15. Continue Setting up osTicket in the browser
+ 		<ul>
+			<li>MySQL Database: osTicket</li>
+			<li>MySQL Username: root</li>
+			<li>MySQL Password: root</li>
+			<li>Click “Install Now!”</li>
+		</ul>
+  You can now select the "Your os Ticket URL:" link to get to the login page 
+</p>
+<br />
