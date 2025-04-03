@@ -125,7 +125,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 				<li>Enable: php_opcache.dll</li>
 			</ul>
 		</li>
-   		<li>Refresh the osTicket site in your browser, observe the changes</li>
+   		<li>Refresh the osTicket site in your browser, observe the changes</li> <p><img src="https://i.imgur.com/AYiUeRl.png" weight="50%" width="50%" alt="With extensions"/></p>
 	</ul>	
 </p>
 <br />
