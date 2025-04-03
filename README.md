@@ -129,3 +129,42 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	</ul>	
 </p>
 <br />
+
+<p>
+	11. Rename: ost-config.php 
+	<ul>
+		<li>From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php</li>
+		<li>To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li>
+	</ul>
+</p>
+<br />
+
+<p>
+	12. Assign Permissions: ost-config.php
+	<ul>
+		<li>Disable inheritance -> Remove All</li>
+		<li>New Permissions -> Everyone -> All</li>
+	</ul>
+</p>
+<br />
+
+<p>
+	13. Continue Setting up osTicket in the browser (click Continue)
+	<ul>
+		<li>Name Helpdesk</li>
+		<li>Default email (receives email from customers)</li>
+	</ul>
+</p>
+<br />
+
+<p>
+	<p><img src="https://i.imgur.com/3NneiT1.png" weight="80%" width="80%" alt="Heidi SQL"/></p>
+	14. From the “osTicket-Installation-Files” folder, install HeidiSQL.
+	<ul>
+		<li>Open Heidi SQL</li>
+		<li>Create a new session, root/root</li>
+		<li>Connect to the session</li>
+		<li>Create a database called “osTicket”</li>
+	</ul>
+</p>
+<br />
