@@ -178,6 +178,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 			<li>MySQL Password: root</li>
 			<li>Click “Install Now!”</li>
 		</ul>
-  You can now select the "Your os Ticket URL:" link to get to the login page 
 </p>
 <br />
