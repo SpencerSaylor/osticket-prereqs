@@ -75,10 +75,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-	5.Open IIS as admin
+	5. Open IIS as admin
 </p>
 <br />
 
 <p>
 	6. Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+</p>
+<br />
+
+<p>
+	7. Reload IIS (Open IIS, Stop and Start the server)
+</p>
+<br />
+
+<p>
+	8. Install osTicket v1.15.8
+ <ul>
+	 <li>From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”</li>
+ </ul>
+
 </p>
